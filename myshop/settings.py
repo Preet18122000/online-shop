@@ -26,7 +26,7 @@ SECRET_KEY = 'hkide*8_!$gl%_er^i29$q1rzws9h*fj&yt+63s-$x#&m5-me0'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1', 'enviro-mart-2.herokuapp.com', '.herokuapp.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'enviro-mart-2.herokuapp.com/', '.herokuapp.com']
 
 
 # Application definition
